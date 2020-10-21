@@ -1,0 +1,1 @@
+web: gunicorn feedback_lansw.wsgi --log-file -
