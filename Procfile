@@ -1,1 +1,1 @@
-web: gunicorn feedback_lansw.wsgi --log-file -
+web: gunicorn feed_lansw.wsgi --log-file -
